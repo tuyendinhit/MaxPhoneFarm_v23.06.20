@@ -1,0 +1,2 @@
+# MaxPhoneFarm_v23.06.20
+ MaxPhoneFarm is a software to raise Facebook nicks on phones in bulk, which is more special than other software on the market today. With the mechanism of backup device or clean nick backup and do not use cookies, tokens, integrated IP change with 4G or proxy, combined with interactive operations like real users with diverse nick farming scenarios will make nick become "harder", avoid disabled accounts and mass checkpoints.

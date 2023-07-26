@@ -1,0 +1,17 @@
+-----------------------------------------------------------------------------
+Date: 20/06/2023 17:37:06
+File: 20_6_2023_17_37_6_7330
+Error: Run Program
+
+Type: System.DllNotFoundException
+Message: Unable to load DLL 'main': The specified module could not be found. (Exception from HRESULT: 0x8007007E)
+StackTrace:    at GClass1.GetDevices()
+   at GClass1.smethod_0() in D:\VS\Source\MinSoftware\MaxPhoneFarmPro\MaxPhoneFarm_v23.06.20\MaxPhoneFarm_v23.06.20\GClass1.cs:line 43
+   at fDeviceList.method_5() in D:\VS\Source\MinSoftware\MaxPhoneFarmPro\MaxPhoneFarm_v23.06.20\MaxPhoneFarm_v23.06.20\fDeviceList.cs:line 1589
+   at fDeviceList.method_4(Object sender, EventArgs e) in D:\VS\Source\MinSoftware\MaxPhoneFarmPro\MaxPhoneFarm_v23.06.20\MaxPhoneFarm_v23.06.20\fDeviceList.cs:line 1583
+   at System.Windows.Forms.Application.ThreadContext.System.Windows.Forms.UnsafeNativeMethods.IMsoComponent.FDoIdle(Int32 grfidlef)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   at fIntro.timer_0_Tick(Object sender, EventArgs e) in D:\VS\Source\MinSoftware\MaxPhoneFarmPro\MaxPhoneFarm_v23.06.20\MaxPhoneFarm_v23.06.20\fIntro.cs:line 91

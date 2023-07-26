@@ -1,0 +1,1 @@
+node "%appdata%\npm\node_modules\appium\build\lib\main"

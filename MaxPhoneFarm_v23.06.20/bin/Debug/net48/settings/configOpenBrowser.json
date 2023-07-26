@@ -1,0 +1,12 @@
+{
+  "isUseProfile": "True",
+  "typeLogin": "0",
+  "typeBrowserLogin": "0",
+  "isGetCookie": "False",
+  "isAutoCloseChromeLoginFail": "False",
+  "ckbAutoOpenLink": "False",
+  "txtLink": "",
+  "ckbKhongLuuTrinhDuyet": "True",
+  "isBackupAccount": "True",
+  "ckbKhangSpam": "True"
+}

@@ -1,0 +1,10 @@
+{
+  "cbbCPU": "1 cores (Khuyến nghị)",
+  "cbbRAM": "1024M (Khuyến nghị)",
+  "nudSizeW": "320",
+  "nudSizeH": "480",
+  "nudDPI": "120",
+  "typeBackupDataFb": "0",
+  "ckbEnableGPS": "False",
+  "ckbTuDongClearDataAppFbKhiLogout": "False"
+}

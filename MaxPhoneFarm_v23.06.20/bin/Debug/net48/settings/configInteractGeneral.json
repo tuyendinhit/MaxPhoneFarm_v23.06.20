@@ -1,0 +1,21 @@
+{
+  "typeLogin": "0",
+  "ckbGetCookie": "True",
+  "ckbUpdateInfo": "False",
+  "ckbCheckLiveUid": "False",
+  "ckbRepeatAll": "False",
+  "nudDelayTurnFrom": "0",
+  "nudDelayTurnTo": "0",
+  "nudSoLuotChay": "0",
+  "RepeatAllVIP": "false",
+  "ckbRandomThuTuTaiKhoan": "False",
+  "ckbReloginIfLogout": "False",
+  "cbbKichBan": "180",
+  "ckbRandomHanhDong": "True",
+  "ckbGioiHanThoiGianChayTaiKhoan": "False",
+  "nudThoiGianChayTaiKhoanFrom": "60",
+  "nudThoiGianChayTaiKhoanTo": "60",
+  "ckbGioiHanThoiGianChayKichBan": "False",
+  "nudThoiGianChayKichBanFrom": "1",
+  "nudThoiGianChayKichBanTo": "1"
+}

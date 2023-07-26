@@ -1,0 +1,13 @@
+{
+  "typeLogin": "0",
+  "ckbGetCookie": "False",
+  "ckbCheckLiveUid": "False",
+  "ckbRepeatAll": "False",
+  "nudDelayTurnFrom": "0",
+  "nudDelayTurnTo": "0",
+  "nudSoLuotChay": "0",
+  "RepeatAllVIP": "false",
+  "ckbRandomThuTuTaiKhoan": "False",
+  "ckbReloginIfLogout": "False",
+  "txtUid": ""
+}
